@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="brakiporodica">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/brakiporodica.zip!/" />
+      <root url="jar://$PROJECT_DIR$/backup23102021.zip!/" />
+      <root url="jar://$PROJECT_DIR$/stari_sajt.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

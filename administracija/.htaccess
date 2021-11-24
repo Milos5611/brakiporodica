@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "administracija"
+AuthUserFile "/home/brakiporodica/.htpasswds/public_html/administracija/passwd"
+require valid-user
